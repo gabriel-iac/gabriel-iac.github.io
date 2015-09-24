@@ -1,0 +1,18 @@
+---
+title: FaceHoff
+subtitle: Node app for Hackaton
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: memory-full.png
+thumbnail: memory.png
+alt: image-alt
+<!-- project-date: April 2014
+client: Start Bootstrap
+category: Web Development -->
+description: Project for a 24 hours hackaton.
+The internet was sick and tired of boring custom-sized placeholder images. This is the new favourite tool for developers looking for freedom that let the user choose their size and get back David Hassellof images.
+Tech: Node Js, Angular Js, ImageMagick.
+
+
+---

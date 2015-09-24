@@ -1,0 +1,17 @@
+---
+title: Blackbeard
+subtitle: Node and Angular app
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: Blackbeard-full.png
+thumbnail: Blackbeard-pre.png
+alt: image-alt
+<!-- project-date: April 2014
+client: Start Bootstrap
+category: Web Development -->
+description: Final project, it is a movies database website, where an user can search for a movies and also find torrents    related to them, the user can start the download using magnet links.    
+Tech: Node Js, Angular Js, getstrike api, themoviedb api, JQuery, mongodb.
+
+
+---
