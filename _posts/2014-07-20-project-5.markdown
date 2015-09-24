@@ -1,6 +1,6 @@
 ---
 title: Blackbeard
-subtitle: Node and Angular app
+subtitle: Movie database with torrrents
 layout: default
 modal-id: 1
 date: 2014-07-18
