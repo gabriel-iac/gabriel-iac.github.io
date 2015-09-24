@@ -1,8 +1,8 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl:
 
 # Site settings
-title: Awesome Title
+title: My Portfolio
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -53,10 +53,10 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket 
+  #   url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
 
