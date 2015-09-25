@@ -4,8 +4,8 @@ subtitle: Movie database with torrrents
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: Blackbeard-full.png
-thumbnail: Blackbeard-pre.png
+img: Blackbeard-full.jpg
+thumbnail: Blackbeard-pre.jpg
 alt: image-alt
 <!-- project-date: April 2014
 client: Start Bootstrap

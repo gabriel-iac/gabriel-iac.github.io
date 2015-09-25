@@ -4,8 +4,8 @@ subtitle: Bucketlist for extreme sports in node
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: advisor-full.png
-thumbnail: advisor-pre.png
+img: advisor-full.jpg
+thumbnail: advisor-pre.jpg
 alt: image-alt
 <!-- project-date: April 2014
 client: Start Bootstrap

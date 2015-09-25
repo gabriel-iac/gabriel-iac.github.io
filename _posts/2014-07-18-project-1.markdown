@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: memory-full.png
-thumbnail: memory.png
+thumbnail: memory.jpg
 alt: image-alt
 <!-- project-date: April 2014
 client: Start Bootstrap

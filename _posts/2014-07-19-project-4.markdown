@@ -4,8 +4,8 @@ subtitle: David Hasselhoff images Placeholder
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: hoff-full.png
-thumbnail: facehoff-pre.png
+img: hoff-full.jpg
+thumbnail: facehoff-pre.jpg
 alt: image-alt
 <!-- project-date: April 2014
 client: Start Bootstrap

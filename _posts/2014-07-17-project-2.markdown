@@ -4,8 +4,8 @@ subtitle: Crowdfounding website in ruby
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: greenlight.png
-thumbnail: greenlight-pre.png
+img: greenlight.jpg
+thumbnail: greenlight-pre.jpg
 alt: image-alt
 <!-- project-date: April 2014
 client: Start Bootstrap
