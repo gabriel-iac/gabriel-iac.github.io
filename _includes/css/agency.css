@@ -1011,6 +1011,10 @@ header {
       font-size: 2.5em;
     }
   }
+.bg-home{
+  background: url("../img/bokeh.jpg") no-repeat center center / cover;
+}
+
   .img-me {
     z-index: 100;
     left: 0;
@@ -1028,4 +1032,11 @@ header {
   }
   .florence-img{
     margin-top: 20px;
+  }
+  header .intro-text .intro-heading {
+      font-size: 45px;
+  }
+  .container .intro-text .intro-lead-in img {
+      border-radius: 40px;
+      border: 10px solid #f7f7f7;
   }

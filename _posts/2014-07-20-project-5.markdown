@@ -2,8 +2,8 @@
 title: Blackbeard
 subtitle: Movie database with torrents
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: 5
+date: 2014-07-20
 img: Blackbeard-full.jpg
 thumbnail: Blackbeard-pre.jpg
 alt: image-alt
