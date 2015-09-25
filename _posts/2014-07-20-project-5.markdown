@@ -1,6 +1,6 @@
 ---
 title: Blackbeard
-subtitle: Movie database with torrrents
+subtitle: Movie database with torrents
 layout: default
 modal-id: 1
 date: 2014-07-18
