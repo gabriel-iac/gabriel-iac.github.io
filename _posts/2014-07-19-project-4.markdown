@@ -13,6 +13,6 @@ client: Start Bootstrap
 category: Web Development -->
 description: Project for a 24 hours hackaton. The internet was sick and tired of boring custom-sized placeholder images. This is the new favourite tool for developers looking for freedom that let the user choose their size and get back David Hasseloff images.
 Tech: Node Js, Angular Js, ImageMagick.
-link:https://facehoff.herokuapp.com
+link: https://facehoff.herokuapp.com
 
 ---
