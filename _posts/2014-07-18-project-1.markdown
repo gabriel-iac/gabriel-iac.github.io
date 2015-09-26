@@ -12,5 +12,5 @@ client: Start Bootstrap
 category: Web Development -->
 description: A memory card game using funny gifs instead of normal cards.
 Tech: Javascript/JQuery,CSS Animations, Heroku.
-
+link: https://memory-project.herokuapp.com/
 ---

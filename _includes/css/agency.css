@@ -177,7 +177,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
   font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-  color: #{{ site.color.primary }};
+  color: #fff;
+  /*color: #{{ site.color.primary }};*/
 }
 
 .navbar-default .navbar-brand:hover,
@@ -1039,4 +1040,29 @@ header {
   .container .intro-text .intro-lead-in img {
       border-radius: 40px;
       border: 10px solid #f7f7f7;
+  }
+
+  ul.banner-social-buttons {
+      margin-top: 0;
+  }
+  .list-inline {
+      padding-left: 0;
+      margin-left: -5px;
+      list-style: none;
+  }
+  ul.banner-social-buttons li {
+      margin-bottom: 15px;
+  }
+  .list-inline>li {
+      display: inline-block;
+      padding-right: 5px;
+      padding-left: 5px;
+  }
+  #contact {
+    text-align: center;
+  }
+  #contact p{
+  margin: 0 0 35px;
+      font-size: 20px;
+      line-height: 1.6;
   }

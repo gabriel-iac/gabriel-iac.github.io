@@ -12,6 +12,6 @@ client: Start Bootstrap
 category: Web Development -->
 description: Final project, it is a movies database website, where an user can search for a movies and also find torrents    related to them, the user can start the download using magnet links.    
 Tech: Node Js, Angular Js, getstrike api, themoviedb api, JQuery, mongodb.
-
+link: https://github.com/gabriel-iac/WDI-FINAL-PROJECT
 
 ---

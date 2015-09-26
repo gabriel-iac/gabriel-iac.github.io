@@ -7,10 +7,11 @@ date: 2014-07-17
 img: greenlight.jpg
 thumbnail: greenlight-pre.jpg
 alt: image-alt
+
 <!-- project-date: April 2014
 client: Start Bootstrap
 category: Web Development -->
 description: A crowdfunding platform, where a user is able to sign up, create his own project or just browse the website and pledge the projects of other users.
 Tech: Ruby on Rails, Foundation CSS ,Sass ,Html5 , PostgreSQL, Javascript/JQuery, Carrierwave, Rmagick, ActsAsTaggable.
-
+link: https://github.com/gabriel-iac/WDI-PROJECT-2
 ---
