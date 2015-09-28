@@ -1070,7 +1070,6 @@ header {
   #portfolio .col-md-4, #portfolio .col-sm-6{
     padding-left: 14px;
   }
-  .portfolio-hover:hover{
-    background-color: #1F5789;
-
+  a:hover, a:focus, a:active, a.active {
+      color: #1F5789 !important;
   }
