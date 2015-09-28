@@ -1066,3 +1066,11 @@ header {
       font-size: 20px;
       line-height: 1.6;
   }
+
+  #portfolio .col-md-4, #portfolio .col-sm-6{
+    padding-left: 14px;
+  }
+  .portfolio-hover:hover{
+    background-color: #1F5789;
+
+  }
