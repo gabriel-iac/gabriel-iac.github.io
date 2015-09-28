@@ -7,9 +7,11 @@ date: 2014-07-16
 img: advisor-full.jpg
 thumbnail: advisor-pre.jpg
 alt: image-alt
-<!-- project-date: April 2014
+
+project-date: April 2014
 client: Start Bootstrap
-category: Web Development -->
+category: Web Development
+
 description: A group Project, it is a bucket list for extreme sports location. A user can register, select a sport, view locations details and add them their own bucket list.
 Tech: Node Js, Ajax, Javascript/JQuery.
 link: https://extreme-advisor.herokuapp.com

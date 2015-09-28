@@ -1070,6 +1070,3 @@ header {
   #portfolio .col-md-4, #portfolio .col-sm-6{
     padding-left: 14px;
   }
-  a:hover, a:focus, a:active, a.active {
-      color: #1F5789 !important;
-  }

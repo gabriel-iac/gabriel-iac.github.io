@@ -7,9 +7,10 @@ date: 2014-07-18
 img: memory-full.png
 thumbnail: memory.jpg
 alt: image-alt
-<!-- project-date: April 2014
+project-date: April 2014
 client: Start Bootstrap
-category: Web Development -->
+category: Web Development
+
 description: A memory card game using funny gifs instead of normal cards.
 Tech: Javascript/JQuery,CSS Animations, Heroku.
 link: https://memory-project.herokuapp.com/

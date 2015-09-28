@@ -8,9 +8,10 @@ img: facehoff-pre.jpg
 thumbnail: facehoff-pre.jpg
 alt: image-alt
 
-<!-- project-date: April 2014
+project-date: April 2014
 client: Start Bootstrap
-category: Web Development -->
+category: Web Development
+
 description: Project for a 24 hours hackaton. The internet was sick and tired of boring custom-sized placeholder images. This is the new favourite tool for developers looking for freedom that let the user choose their size and get back David Hasseloff images.
 Tech: Node Js, Angular Js, ImageMagick.
 link: https://facehoff.herokuapp.com
